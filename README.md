@@ -1,7 +1,57 @@
-<!--- 
-The README.md is auto-generated. Do not edit.
---->
 
-Hello wingstako
+<div>
 
-generated at 10月14日星期五 下午5:21 [GMT+8]
+```
+██╗    ██╗██╗███╗   ██╗ ██████╗ ███████╗████████╗ █████╗ ██╗  ██╗ ██████╗ 
+██║    ██║██║████╗  ██║██╔════╝ ██╔════╝╚══██╔══╝██╔══██╗██║ ██╔╝██╔═══██╗
+██║ █╗ ██║██║██╔██╗ ██║██║  ███╗███████╗   ██║   ███████║█████╔╝ ██║   ██║
+██║███╗██║██║██║╚██╗██║██║   ██║╚════██║   ██║   ██╔══██║██╔═██╗ ██║   ██║
+╚███╔███╔╝██║██║ ╚████║╚██████╔╝███████║   ██║   ██║  ██║██║  ██╗╚██████╔╝
+ ╚══╝╚══╝ ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ 
+
+- tries to learn one thing
+- but always ends up learning other things 
+- and never finish with the original thing
+```
+
+
+</div>
+
+
+<details>
+
+<summary><b>🌅 About Me </b></summary>
+
+- Backend Developer
+- Love aesthetic, vaporwave, cyberpunk style designs
+
+</details>
+
+<recommand-readings>
+
+
+<details>
+
+<summary><b>👨‍💻 Tools</b></summary>
+
+- Language - Java, Dart, Typescript, SQL
+- Framework - Spring Boot, Flutter, SvelteKit
+- Cloud - AWS, Firebase
+
+</details>
+
+<recommand-readings>
+
+
+
+</recommand-readings>
+
+<details>
+
+<summary><b>📱 Contacts</b></summary>
+
+- GitHub - https://github.com/wingstako
+- Neocities - https://wingstako.neocities.org
+- LinkedIn - https://www.linkedin.com/in/stanleywkman
+</details>
+
