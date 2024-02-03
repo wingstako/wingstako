@@ -52,7 +52,6 @@
 
 - GitHub - https://github.com/wingstako
 - Neocities - https://wingstako.neocities.org
-- LinkedIn - https://www.linkedin.com/in/stanleywkman
 </details>
 
 
